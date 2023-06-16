@@ -1,0 +1,21 @@
+{
+  "name": "slider-verify",
+  "version": "1.0.0",
+  "description": "滑动校验js插件",
+  "main": "src/main.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [
+    "slider",
+    "verify",
+    "javascript",
+    "滑动校验"
+  ],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-terser": "^0.4.3"
+  }
+}
